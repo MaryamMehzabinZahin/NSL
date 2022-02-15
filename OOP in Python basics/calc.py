@@ -11,4 +11,5 @@ def main():
     add()
     sub()
 
-main()
+if __name__=="__main__":
+    main()
